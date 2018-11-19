@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+.wrapper {
+  text-align: center;
+  width: 970px;
+  height: 970px;
+  margin: auto;
+  background-image: linear-gradient(red, white, blue);
+}
+
+h1 {
+  padding: 20px;
+}
+
+p {
+  width: 760px;
+  margin: auto;
+  margin-top: 40px;
+  padding: 20px;
+  font-weight: bold;
+  border: 2px solid black;
+  border-radius: 25px;
+}
